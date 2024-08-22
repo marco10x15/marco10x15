@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marco10x15
 - 👀 I’m interested in tecnology, photography and personal grow.
-- 🌱 I’m currently learning Triliun Notes
+- 🌱 I’m currently using SilverBullet
 
 <!---
 marco10x15/marco10x15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
